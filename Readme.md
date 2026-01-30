@@ -1,10 +1,10 @@
-<h2 align="center">Hey everyone, I’m Vansh</h2>
+<h2 align="center">Hey everyone, I’m Vansh Kharb</h2>
 <h3 align="center">Computer Science Engineer</h3>
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=thevanshit&label=Profile%20views&color=0e75b6&style=flat"
-    alt="thevanshit"
+    src="https://komarev.com/ghpvc/?username=VanshKharb&label=Profile%20views&color=0e75b6&style=flat"
+    alt="VanshKharb"
   />
 </p>
 
@@ -12,7 +12,7 @@
 - 📚 Currently learning **Data Structures & Algorithms**, **Competitive Programming**, **Web Development**, and **DevOps**  
 - 💬 Ask me about **Competitive Programming, MERN Stack, JavaScript, Python**  
 - 🧠 Focused on building strong fundamentals and understanding systems beyond surface level  
-- 📫 Reach me at **vanshit2509@gmail.com**
+- 📫 Reach me at **kharbvansh456@gmail.com**
 
 ---
 
